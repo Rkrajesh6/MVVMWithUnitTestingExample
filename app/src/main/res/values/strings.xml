@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVVMUnitTestingAssignment</string>
+    <string name="error_text">An error occured while loading Data.</string>
+    <string name="gender">Gender</string>
+    <string name="email">Email</string>
+    <string name="cell">Cell</string>
+    <string name="name">Name</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="profileimage">profileImage</string>
+</resources>
